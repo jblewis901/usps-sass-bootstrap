@@ -1,0 +1,20 @@
+{
+  "name": "sassbootstrap3",
+  "version": "1.0.0",
+  "description": "Sass Bootstrap Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "Jason Lewis",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "parcel-bundler": "^1.12.4",
+    "popper.js": "^1.16.0",
+    "prismjs": "^1.17.1",
+    "sass": "^1.24.0"
+  }
+}

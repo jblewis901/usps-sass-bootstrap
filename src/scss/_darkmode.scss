@@ -1,0 +1,174 @@
+$primary: #ededed;
+$secondary:#333366;
+$danger: #e71921;
+$info: #3573B1;
+$success: #218748;
+$light: #ededed;
+$dark: #222222;
+$text-color: #ffffff;
+
+$indigo:  #6610f2;
+$blue:    #007bff;
+$purple:  #6f42c1;
+$pink:    #e83e8c;
+$red:     #dc3545;
+$orange:  #fd7e14;
+$yellow:  #ffc107;
+$teal:    #20c997;
+$cyan:    #17a2b8;
+
+
+
+$chart-color1: $indigo;
+$chart-color2: $blue;
+$chart-color3: $purple;
+$chart-color4: $pink;
+$chart-color5: $red;
+$chart-color6: $orange;
+$chart-color7: $yellow;
+$chart-color8: $teal;
+$chart-color9: $cyan;
+$chart-color10: darken($indigo, 20%);
+$chart-color11: darken($blue, 20%);
+$chart-color12: darken($purple, 20%);
+$chart-color13: darken($pink, 20%);
+$chart-color14: darken($red, 20%);
+$chart-color15: darken($orange, 20%);
+$chart-color16: darken($yellow, 20%);
+$chart-color17: darken($teal, 20%);
+$chart-color18: darken($cyan, 20%);
+
+
+
+$body-bg: $dark;
+$body-color: $text-color;
+$link-color: #3573b1;
+
+$table-head-color:  #ffffff;
+$table-head-bg: #333366;
+$table-dark-bg: #595959;
+$table-light-bg: #ededed;
+$btn-border-radius: 30px;
+
+
+
+$headings-color: $primary;
+$headings-font-weight: 600;
+
+$enable-responsive-font-sizes: true;
+
+
+.chart-color1{
+    background-color: $chart-color1;
+    color: #fff;
+}
+
+.chart-color2{
+    background-color: $chart-color2;
+    color: #000000;
+}
+
+.chart-color3{
+    background-color: $chart-color3;
+    color: #fff;
+}
+
+.chart-color4{
+    background-color: $chart-color4;
+    color: #000000;
+}
+
+.chart-color5{
+    background-color: $chart-color5;
+    color: #fff;
+}
+
+.chart-color6{
+    background-color: $chart-color6;
+    color: #000000;
+}
+
+.chart-color7{
+    background-color: $chart-color7;
+    color: #000000;
+}
+
+.chart-color8{
+    background-color: $chart-color8;
+    color: #000000;
+}
+
+.chart-color9{
+    background-color: $chart-color9;
+    color: #000000;
+}
+
+.chart-color10{
+    background-color: $chart-color10;
+    color: #fff;
+}
+
+.chart-color11{
+    background-color: $chart-color11;
+    color: #fff;
+}
+
+.chart-color12{
+    background-color: $chart-color12;
+    color: #fff;
+}
+
+.chart-color13{
+    background-color: $chart-color13;
+    color: #fff;
+}
+
+.chart-color14{
+    background-color: $chart-color14;
+    color: #fff;
+}
+
+.chart-color15{
+    background-color: $chart-color15;
+    color: #fff;
+}
+
+.chart-color16{
+    background-color: $chart-color16;
+    color: #000000;
+}
+
+.chart-color17{
+    background-color: $chart-color17;
+    color: #fff;
+}
+.chart-color18{
+    background-color: $chart-color18;
+    color: #fff;
+
+}
+
+
+
+.navbar{
+    border-bottom: solid 5px $primary;
+    -webkit-box-shadow: 0 -10px 16px 10px #999999;
+   -moz-box-shadow: 0 -10px 16px 10px #999999;
+    box-shadow: 0 -10px 16px 10px #999999;
+
+    .navbar-brand img {
+        max-width: 10em;
+        height: 1.8em;
+    }
+
+    .nav-link { color: $primary }
+    .nav-link:focus { color: #999999; }
+
+
+}
+    
+
+
+
+
+
