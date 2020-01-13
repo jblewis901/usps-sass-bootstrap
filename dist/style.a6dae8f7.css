@@ -3,91 +3,109 @@
 .chart-color1 {
   background-color: #6610f2;
   color: #fff;
+  stroke: #6610f2;
 }
 
 .chart-color2 {
   background-color: #007bff;
   color: #000000;
+  stroke: #007bff;
 }
 
 .chart-color3 {
   background-color: #6f42c1;
   color: #fff;
+  stroke: #6f42c1;
 }
 
 .chart-color4 {
   background-color: #e83e8c;
   color: #000000;
+  stroke: #e83e8c;
 }
 
 .chart-color5 {
   background-color: #dc3545;
   color: #fff;
+  stroke: #dc3545;
 }
 
 .chart-color6 {
   background-color: #fd7e14;
   color: #000000;
+  stroke: #fd7e14;
 }
 
 .chart-color7 {
   background-color: #ffc107;
   color: #000000;
+  stroke: #ffc107;
 }
 
 .chart-color8 {
   background-color: #20c997;
   color: #000000;
+  stroke: #20c997;
 }
 
 .chart-color9 {
   background-color: #17a2b8;
   color: #000000;
+  stroke: #17a2b8;
 }
 
 .chart-color10 {
   background-color: #3d0894;
   color: #fff;
+  stroke: #3d0894;
 }
 
 .chart-color11 {
   background-color: #004a99;
   color: #fff;
+  stroke: #004a99;
 }
 
 .chart-color12 {
   background-color: #432776;
   color: #fff;
+  stroke: #432776;
 }
 
 .chart-color13 {
   background-color: #ac145a;
   color: #fff;
+  stroke: #ac145a;
 }
 
 .chart-color14 {
   background-color: #921925;
   color: #fff;
+  stroke: #921925;
 }
 
 .chart-color15 {
   background-color: #aa4e01;
   color: #fff;
+  stroke: #aa4e01;
 }
 
 .chart-color16 {
   background-color: #a07800;
   color: #000000;
+  stroke: #a07800;
 }
 
 .chart-color17 {
   background-color: #127155;
   color: #fff;
+  stroke: #127155;
 }
 
 .chart-color18 {
   background-color: #0c525d;
   color: #fff;
+  stroke: #0c525d;
 }
 
 .navbar {
