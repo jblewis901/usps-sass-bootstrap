@@ -1,111 +1,112 @@
 @charset "UTF-8";
 /*@import "../scss/darkmode.scss";*/
+/*Chart Colors*/
 .chart-color1 {
-  background-color: #6610f2;
-  color: #fff;
-  stroke: #6610f2;
+  background-color: #C3A384;
+  color: #000000;
+  stroke: #C3A384;
 }
 
 .chart-color2 {
-  background-color: #007bff;
+  background-color: #D63D43;
   color: #000000;
-  stroke: #007bff;
+  stroke: #D63D43;
 }
 
 .chart-color3 {
-  background-color: #6f42c1;
-  color: #fff;
-  stroke: #6f42c1;
+  background-color: #E96D25;
+  color: #000000;
+  stroke: #E96D25;
 }
 
 .chart-color4 {
-  background-color: #e83e8c;
+  background-color: #BDA833;
   color: #000000;
-  stroke: #e83e8c;
+  stroke: #BDA833;
 }
 
 .chart-color5 {
-  background-color: #dc3545;
-  color: #fff;
-  stroke: #dc3545;
+  background-color: #489375;
+  color: #000000;
+  stroke: #489375;
 }
 
 .chart-color6 {
-  background-color: #fd7e14;
+  background-color: #0FA5AC;
   color: #000000;
-  stroke: #fd7e14;
+  stroke: #0FA5AC;
 }
 
 .chart-color7 {
-  background-color: #ffc107;
+  background-color: #3e7ec0;
   color: #000000;
-  stroke: #ffc107;
+  stroke: #3e7ec0;
 }
 
 .chart-color8 {
-  background-color: #20c997;
+  background-color: #9a9ae0;
   color: #000000;
-  stroke: #20c997;
+  stroke: #9a9ae0;
 }
 
 .chart-color9 {
-  background-color: #17a2b8;
+  background-color: #AF5A83;
   color: #000000;
-  stroke: #17a2b8;
+  stroke: #AF5A83;
 }
 
 .chart-color10 {
-  background-color: #3d0894;
-  color: #fff;
-  stroke: #3d0894;
+  background-color: #8a6643;
+  color: #ffffff;
+  stroke: #8a6643;
 }
 
 .chart-color11 {
-  background-color: #004a99;
-  color: #fff;
-  stroke: #004a99;
+  background-color: #7e1b1f;
+  color: #ffffff;
+  stroke: #7e1b1f;
 }
 
 .chart-color12 {
-  background-color: #432776;
-  color: #fff;
-  stroke: #432776;
+  background-color: #863a0e;
+  color: #ffffff;
+  stroke: #863a0e;
 }
 
 .chart-color13 {
-  background-color: #ac145a;
-  color: #fff;
-  stroke: #ac145a;
+  background-color: #5d5219;
+  color: #ffffff;
+  stroke: #5d5219;
 }
 
 .chart-color14 {
-  background-color: #921925;
-  color: #fff;
-  stroke: #921925;
+  background-color: #204134;
+  color: #ffffff;
+  stroke: #204134;
 }
 
 .chart-color15 {
-  background-color: #aa4e01;
-  color: #fff;
-  stroke: #aa4e01;
+  background-color: #05393b;
+  color: #ffffff;
+  stroke: #05393b;
 }
 
 .chart-color16 {
-  background-color: #a07800;
-  color: #000000;
-  stroke: #a07800;
+  background-color: #204163;
+  color: #ffffff;
+  stroke: #204163;
 }
 
 .chart-color17 {
-  background-color: #127155;
-  color: #fff;
-  stroke: #127155;
+  background-color: #3c3cc3;
+  color: #ffffff;
+  stroke: #3c3cc3;
 }
 
 .chart-color18 {
-  background-color: #0c525d;
-  color: #fff;
-  stroke: #0c525d;
+  background-color: #602f46;
+  color: #ffffff;
+  stroke: #602f46;
 }
 
 .navbar {
@@ -126,11 +127,11 @@
 }
 
 .card .card-header {
-  color: #fff;
+  color: #ffffff;
   background: #333366;
 }
 .card .card-header .btn {
-  color: #fff;
+  color: #ffffff;
 }
 .card .card-header .btn:hover {
   color: #f7f7f7;
@@ -161,15 +162,15 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
-  --blue: #007bff;
+  --blue: #3e7ec0;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
-  --red: #dc3545;
-  --orange: #fd7e14;
+  --red: #D63D43;
+  --orange: #E96D25;
   --yellow: #ffc107;
-  --green: #28a745;
-  --teal: #20c997;
+  --green: #489375;
+  --teal: #0FA5AC;
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
@@ -307,7 +308,7 @@ sup {
 }
 
 a {
-  color: #3573b1;
+  color: #3573B1;
   text-decoration: none;
   background-color: transparent;
 }
@@ -3071,7 +3072,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #3573b1;
+  color: #3573B1;
   text-decoration: none;
 }
 .btn-link:hover {
@@ -4736,7 +4737,7 @@ input[type=button].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #3573b1;
+  color: #3573B1;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }

@@ -6,58 +6,62 @@ $success: #218748;
 $light: #ededed;
 $dark: #595959;
 
+$true-white: #ffffff;
+$true-black: #000000;
+
 $gray1: #f7f7f7;
 $gray2: #ededed;
 $gray3: #d8d8d8;
 $gray4: #999999;
 $gray5: #595959;
 
-$indigo:  #6610f2;
-$blue:    #007bff;
-$purple:  #6f42c1;
-$pink:    #e83e8c;
-$red:     #dc3545;
-$orange:  #fd7e14;
-$yellow:  #ffc107;
-$teal:    #20c997;
-$cyan:    #17a2b8;
+/*Chart Colors*/
+$tan:   #C3A384;
+$red:    #D63D43;
+$orange:  #E96D25;
+$gold:    #BDA833;
+$green:     #489375;
+$teal:  #0FA5AC;
+$blue:  #3e7ec0;
+$lavender:    #9a9ae0;
+$violet:    #AF5A83;
 
 
 
-$chart-color1: $indigo;
-$chart-color2: $blue;
-$chart-color3: $purple;
-$chart-color4: $pink;
-$chart-color5: $red;
-$chart-color6: $orange;
-$chart-color7: $yellow;
-$chart-color8: $teal;
-$chart-color9: $cyan;
-$chart-color10: darken($indigo, 20%);
-$chart-color11: darken($blue, 20%);
-$chart-color12: darken($purple, 20%);
-$chart-color13: darken($pink, 20%);
-$chart-color14: darken($red, 20%);
-$chart-color15: darken($orange, 20%);
-$chart-color16: darken($yellow, 20%);
-$chart-color17: darken($teal, 20%);
-$chart-color18: darken($cyan, 20%);
+$chart-color1: $tan;
+$chart-color2: $red;
+$chart-color3: $orange;
+$chart-color4: $gold;
+$chart-color5: $green;
+$chart-color6: $teal;
+$chart-color7: $blue;
+$chart-color8: $lavender;
+$chart-color9: $violet;
+$chart-color10: darken($tan, 24%);
+$chart-color11: darken($red, 24%);
+$chart-color12: darken($orange, 24%);
+$chart-color13: darken($gold, 24%);
+$chart-color14: darken($green, 24%);
+$chart-color15: darken($teal, 24%);
+$chart-color16: darken($blue, 24%);
+$chart-color17: darken($lavender, 24%);
+$chart-color18: darken($violet, 24%);
 
 
 
-$body-color: #595959;
-$link-color: #3573b1;
+$body-color: $dark;
+$link-color: $info;
 
 
-$table-head-color:  #ffffff;
-$table-head-bg: #333366;
-$table-dark-bg: #595959;
-$table-light-bg: #ededed;
+$table-head-color: $true-white;
+$table-head-bg: $primary;
+$table-dark-bg: $dark;
+$table-light-bg: $gray2;
 $btn-border-radius: 30px;
 
 
 
-$headings-color: #333366;
+$headings-color: $primary;
 $headings-font-weight: 600;
 
 $enable-responsive-font-sizes: true;
@@ -65,108 +69,108 @@ $enable-responsive-font-sizes: true;
 
 .chart-color1{
     background-color: $chart-color1;
-    color: #fff;
+    color: $true-black;
     stroke: $chart-color1;
 }
 
 .chart-color2{
     background-color: $chart-color2;
-    color: #000000;
+    color: $true-black;
     stroke: $chart-color2;
 }
 
 .chart-color3{
     background-color: $chart-color3;
-    color: #fff;
+    color: $true-black;
     stroke: $chart-color3;
 }
 
 .chart-color4{
     background-color: $chart-color4;
-    color: #000000;
+    color: $true-black;
     stroke: $chart-color4;
 }
 
 .chart-color5{
     background-color: $chart-color5;
-    color: #fff;
+    color: $true-black;
     stroke: $chart-color5;
 }
 
 .chart-color6{
     background-color: $chart-color6;
-    color: #000000;
+    color: $true-black;
     stroke: $chart-color6;
 }
 
 .chart-color7{
     background-color: $chart-color7;
-    color: #000000;
+    color: $true-black;
     stroke: $chart-color7;
 }
 
 .chart-color8{
     background-color: $chart-color8;
-    color: #000000;
+    color: $true-black;
     stroke: $chart-color8;
 }
 
 .chart-color9{
     background-color: $chart-color9;
-    color: #000000;
+    color: $true-black;
     stroke: $chart-color9;
 }
 
 .chart-color10{
     background-color: $chart-color10;
-    color: #fff;
+    color: $true-white;
     stroke: $chart-color10;
 }
 
 .chart-color11{
     background-color: $chart-color11;
-    color: #fff;
+    color: $true-white;
     stroke: $chart-color11;
 }
 
 .chart-color12{
     background-color: $chart-color12;
-    color: #fff;
+    color: $true-white;
     stroke: $chart-color12;
 }
 
 .chart-color13{
     background-color: $chart-color13;
-    color: #fff;
+    color: $true-white;
     stroke: $chart-color13;
 }
 
 .chart-color14{
     background-color: $chart-color14;
-    color: #fff;
+    color: $true-white;
     stroke: $chart-color14;
 }
 
 .chart-color15{
     background-color: $chart-color15;
-    color: #fff;
+    color: $true-white;
     stroke: $chart-color15;
 }
 
 .chart-color16{
     background-color: $chart-color16;
-    color: #000000;
+    color: $true-white;
     stroke: $chart-color16;
 }
 
 .chart-color17{
     background-color: $chart-color17;
-    color: #fff;
+    color: $true-white;
     stroke: $chart-color17;
 }
 .chart-color18{
     background-color: $chart-color18;
-    color: #fff;
+    color: $true-white;
     stroke: $chart-color18;
 
 }
@@ -174,9 +178,9 @@ $enable-responsive-font-sizes: true;
 
 .navbar{
     border-bottom: solid 5px $primary;
-    -webkit-box-shadow: 0 -10px 16px 10px #999999;
-   -moz-box-shadow: 0 -10px 16px 10px #999999;
-    box-shadow: 0 -10px 16px 10px #999999;
+    -webkit-box-shadow: 0 -10px 16px 10px $gray4;
+   -moz-box-shadow: 0 -10px 16px 10px $gray4;
+    box-shadow: 0 -10px 16px 10px $gray4;
 
     .navbar-brand img {
         max-width: 10em;
@@ -184,7 +188,7 @@ $enable-responsive-font-sizes: true;
     }
 
     .nav-link { color: $primary }
-    .nav-link:focus { color: #999999; }
+    .nav-link:focus { color: $gray4; }
 
 
 }
@@ -192,15 +196,15 @@ $enable-responsive-font-sizes: true;
 .card{
 
         .card-header{
-            color:#fff;
+            color: $true-white;
             background: $primary;
             
         }
         .card-header .btn{
-            color: #fff;
+            color: $true-white;
         }
         .card-header .btn:hover{
-            color: #f7f7f7;
+            color: $gray1;
         }
     
 }
