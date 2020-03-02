@@ -2,111 +2,111 @@
 /*@import "../scss/darkmode.scss";*/
 /*Chart Colors*/
 .chart-color1 {
-  background-color: #C3A384;
-  color: #000000;
-  stroke: #C3A384;
-}
-
-.chart-color2 {
-  background-color: #D63D43;
-  color: #000000;
-  stroke: #D63D43;
-}
-
-.chart-color3 {
-  background-color: #E96D25;
-  color: #000000;
-  stroke: #E96D25;
-}
-
-.chart-color4 {
-  background-color: #BDA833;
-  color: #000000;
-  stroke: #BDA833;
-}
-
-.chart-color5 {
-  background-color: #489375;
-  color: #000000;
-  stroke: #489375;
-}
-
-.chart-color6 {
-  background-color: #0FA5AC;
-  color: #000000;
-  stroke: #0FA5AC;
-}
-
-.chart-color7 {
   background-color: #3e7ec0;
   color: #000000;
   stroke: #3e7ec0;
 }
 
-.chart-color8 {
+.chart-color2 {
+  background-color: #e96d25;
+  color: #000000;
+  stroke: #e96d25;
+}
+
+.chart-color3 {
   background-color: #9a9ae0;
   color: #000000;
   stroke: #9a9ae0;
 }
 
-.chart-color9 {
+.chart-color4 {
+  background-color: #489375;
+  color: #000000;
+  stroke: #489375;
+}
+
+.chart-color5 {
   background-color: #AF5A83;
   color: #000000;
   stroke: #AF5A83;
 }
 
+.chart-color6 {
+  background-color: #BDA833;
+  color: #000000;
+  stroke: #BDA833;
+}
+
+.chart-color7 {
+  background-color: #D63D43;
+  color: #000000;
+  stroke: #D63D43;
+}
+
+.chart-color8 {
+  background-color: #0FA5AC;
+  color: #000000;
+  stroke: #0FA5AC;
+}
+
+.chart-color9 {
+  background-color: #C3A384;
+  color: #000000;
+  stroke: #C3A384;
+}
+
 .chart-color10 {
-  background-color: #8a6643;
+  background-color: #2b5886;
   color: #ffffff;
-  stroke: #8a6643;
+  stroke: #2b5886;
 }
 
 .chart-color11 {
-  background-color: #7e1b1f;
+  background-color: #b04c12;
   color: #ffffff;
-  stroke: #7e1b1f;
+  stroke: #b04c12;
 }
 
 .chart-color12 {
-  background-color: #863a0e;
+  background-color: #5f5fce;
   color: #ffffff;
-  stroke: #863a0e;
+  stroke: #5f5fce;
 }
 
 .chart-color13 {
-  background-color: #5d5219;
+  background-color: #2f604c;
   color: #ffffff;
-  stroke: #5d5219;
+  stroke: #2f604c;
 }
 
 .chart-color14 {
-  background-color: #204134;
+  background-color: #7f3e5d;
   color: #ffffff;
-  stroke: #204134;
+  stroke: #7f3e5d;
 }
 
 .chart-color15 {
-  background-color: #05393b;
+  background-color: #817223;
   color: #ffffff;
-  stroke: #05393b;
+  stroke: #817223;
 }
 
 .chart-color16 {
-  background-color: #204163;
+  background-color: #a42328;
   color: #ffffff;
-  stroke: #204163;
+  stroke: #a42328;
 }
 
 .chart-color17 {
-  background-color: #3c3cc3;
+  background-color: #096266;
   color: #ffffff;
-  stroke: #3c3cc3;
+  stroke: #096266;
 }
 
 .chart-color18 {
-  background-color: #602f46;
+  background-color: #a87d52;
   color: #ffffff;
-  stroke: #602f46;
+  stroke: #a87d52;
 }
 
 .navbar {
@@ -167,7 +167,7 @@
   --purple: #6f42c1;
   --pink: #e83e8c;
   --red: #D63D43;
-  --orange: #E96D25;
+  --orange: #e96d25;
   --yellow: #ffc107;
   --green: #489375;
   --teal: #0FA5AC;
